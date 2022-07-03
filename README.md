@@ -35,7 +35,7 @@ Confused? You can run git checkout nodejs-edition if you'd like to see this with
 
 1.Clone the repo
 
-`git clone https://github.com/FurkanSezal/Fund-me-With-Hardhat`
+`git clone https://github.com/FurkanSezal/Fund-me-with-Hardhat-`
 
 `cd html-fund-me-fcc`
 
